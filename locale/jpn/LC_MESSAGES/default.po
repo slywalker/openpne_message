@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: openpne_message\n"
-"POT-Creation-Date: 2009-11-30 12:39+0900\n"
+"POT-Creation-Date: 2009-11-30 14:00+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Yasuo Harada <slywalker.net@gmail.com>\n"
 "Language-Team: \n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: /views/layouts/default.ctp:25;39
-msgid "sns.0930nikki.com Messages:"
+msgid "OpenPNE Messages:"
 msgstr ""
 
 #: /views/layouts/default.ctp:50

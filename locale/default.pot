@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2009-11-30 12:39+0900\n"
+"POT-Creation-Date: 2009-11-30 14:00+0900\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: /views/layouts/default.ctp:25;39
-msgid "sns.0930nikki.com Messages:"
+msgid "OpenPNE Messages:"
 msgstr ""
 
 #: /views/layouts/default.ctp:50

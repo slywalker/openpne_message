@@ -54,7 +54,7 @@
  *
  */
 	if (!defined('CAKE_CORE_INCLUDE_PATH')) {
-		define('CAKE_CORE_INCLUDE_PATH',  DS . 'Users' . DS . 'don' . DS . 'local' . DS . 'share' . DS . 'cakephp1.3');
+		define('CAKE_CORE_INCLUDE_PATH', ROOT);
 	}
 
 /**

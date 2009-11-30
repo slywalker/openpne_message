@@ -22,7 +22,7 @@
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
-		<?php __('sns.0930nikki.com Messages:'); ?>
+		<?php __('OpenPNE Messages:'); ?>
 		<?php echo $title_for_layout; ?>
 	</title>
 	<?php
@@ -36,7 +36,7 @@
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $this->Html->link(__('sns.0930nikki.com Messages:', true), '/'); ?></h1>
+			<h1><?php echo $this->Html->link(__('OpenPNE Messages:', true), '/'); ?></h1>
 		</div>
 		<div id="content">
 
