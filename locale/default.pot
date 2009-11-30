@@ -1,0 +1,108 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2009-11-30 12:39+0900\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /views/layouts/default.ctp:25;39
+msgid "sns.0930nikki.com Messages:"
+msgstr ""
+
+#: /views/layouts/default.ctp:50
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: /views/messages/index.ctp:2
+msgid "Messages"
+msgstr ""
+
+#: /views/messages/index.ctp:6
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/messages/index.ctp:11
+msgid "Member To"
+msgstr ""
+
+#: /views/messages/index.ctp:12
+msgid "Member From"
+msgstr ""
+
+#: /views/messages/index.ctp:13
+msgid "R Datetime"
+msgstr ""
+
+#: /views/messages/index.ctp:14
+msgid "Subject"
+msgstr ""
+
+#: /views/messages/index.ctp:15
+msgid "Body"
+msgstr ""
+
+#: /views/messages/index.ctp:46
+msgid "previous"
+msgstr ""
+
+#: /views/messages/index.ctp:48
+msgid "next"
+msgstr ""
+
+#: /views/pages/home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: /views/pages/home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: /views/pages/home.ctp:26
+msgid "The %s is being used for caching. To change the config edit APP/config/core.php "
+msgstr ""
+
+#: /views/pages/home.ctp:30
+msgid "Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr ""
+
+#: /views/pages/home.ctp:40
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: /views/pages/home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: /views/pages/home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr ""
+
+#: /views/pages/home.ctp:64
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:68
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:74
+msgid "Editing this Page"
+msgstr ""
+
+#: /views/pages/home.ctp:77
+msgid "To change the content of this page, edit: %s\n\t\tTo change its layout, edit: %s\n\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: /webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
